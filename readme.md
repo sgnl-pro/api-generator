@@ -32,10 +32,6 @@ sudo apt update
 sudo apt install openjdk-17-jdk
 ```
 
-#### Windows
-- Download and install OpenJDK 17 from [https://adoptium.net](https://adoptium.net/)
-- Add Java to your system PATH.
-
 #### Verify Installation
 ```bash
 java -version
